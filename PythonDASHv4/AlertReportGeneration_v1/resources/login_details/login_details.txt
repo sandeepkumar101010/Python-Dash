@@ -1,0 +1,5 @@
+username = GIS_IN
+password = GIS_IN
+host = 172.29.10.10
+port = 1521
+sid = GISIN
